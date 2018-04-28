@@ -1,0 +1,9 @@
+{
+    "name": "blade",
+    "version": "2.0.8",
+    "description": "Lightweight、high performance、concise and elegant",
+    "repository": "lets-blade/blade",
+    "homepage": "https://lets-blade.com",
+    "author": "biezhi",
+    "license": "MIT"
+  }
