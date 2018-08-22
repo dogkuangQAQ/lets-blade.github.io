@@ -27,7 +27,7 @@ title: 创建一个工程
     <version>0.0.1</version>
 
     <properties>
-        <blade-mvc.version>2.0.8-BETA1</blade-mvc.version>
+        <blade-mvc.version>2.0.9.BETA3</blade-mvc.version>
     </properties>
 
     <dependencies>
