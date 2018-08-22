@@ -39,7 +39,7 @@ public static void main(String[] args) {
 实际上 `Blade` 内部提供了一个小功能，默认的关闭的，如果你希望看到静态资源目录下的列表可以开启这项技能，也是两种方式：
 
 - 通过编码设置：`blade.showFileList(true)`
-- 通过配置文件：`mvc.statics.list=true`
+- 通过配置文件：`mvc.statics.show-list=true`
 
 开启之后的样子
 
